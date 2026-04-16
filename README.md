@@ -8,7 +8,6 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/TunaaPham041311/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/TunaaPham041311"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/tuna.pham.130405"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.coffee.com/TunaaPham041311"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
@@ -40,22 +39,14 @@
  - 🥀 Learning Swift & Objective_C
  
  - <i>with Javascript, Typescript, React and 36 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://x.com/TunaaPham041311)
  
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Tunaa-11342&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
