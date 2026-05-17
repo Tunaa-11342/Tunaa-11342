@@ -71,7 +71,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Tunaa11342/Tunaa11342/output/github-contribution-grid-snake-dark.svg" alt="Github Snake" width="100%">
+    <img src="https://raw.githubusercontent.com/Tunaa-11342/Tunaa-11342/output/github-contribution-grid-snake-dark.svg" alt="Github Snake" width="100%">
   </p>
 </div>
 
